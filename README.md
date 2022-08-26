@@ -1,5 +1,6 @@
 # Sudoku Solver
 App to solve or generate sudokus.  
+Live version [here](http://sudoku.rf.gd)
 ## Technologies: 
 * HTML
 * Bootstrap
